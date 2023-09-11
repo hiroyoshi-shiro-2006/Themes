@@ -1,6 +1,6 @@
 {
     "name": "Modified",
-    "description": "Modified bg image.",
+    "description": "Ganyu bg image.",
     "authors": [
         {
             "name": "An",
@@ -134,7 +134,7 @@
        
     },
   "background": {
-    "blur": 0.1,
+    "blur": 0.2,
     "url": "https://cdn.discordapp.com/attachments/1136518995185500201/1150834924715266129/90f61fe44030658495924e013ffb67a9.jpg",
     "alpha": 0.8
   },
