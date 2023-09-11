@@ -1,6 +1,6 @@
 {
     "name": "Modified",
-    "description": "Modified bg image.",
+    "description": "Kokomi bg image.",
     "authors": [
         {
             "name": "An",
@@ -135,7 +135,7 @@
     },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/1136518995185500201/1150834924715266129/90f61fe44030658495924e013ffb67a9.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1136518995185500201/1136519129776537620/23dfc806d560e7713f07666bdb1ba584.jpg",
     "alpha": 0.8
   },
     "spec": 2
